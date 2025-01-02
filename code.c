@@ -3,6 +3,7 @@
 #define Ccon 97
 
 // the TALMINATOR IS READY. 
+// 1st year Coding project! Ranked 22 in a class of 400
 
 bool checkLegalInDirection(char board[][26], int n, int row, int col, char colour, int deltaRow, int deltaCol);
 bool positionInBounds(int n, int row, int col);
